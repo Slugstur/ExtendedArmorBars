@@ -15,7 +15,7 @@ import net.minecraft.util.math.MathHelper;
 public class ToughnessBar implements ModInitializer {
 
 	public static final String MOD_ID = "extendedarmorbars";
-	private static final String CONFIG_FILE = "config.json";
+	private static final String CONFIG_FILE = MOD_ID + ".json";
 	private static final Identifier ARMOR = new Identifier(MOD_ID, "textures/gui/armor.png");
 	private static final Identifier TOUGHNESS = new Identifier(MOD_ID, "textures/gui/toughness.png");
 
