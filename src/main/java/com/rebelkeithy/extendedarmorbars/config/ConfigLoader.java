@@ -5,9 +5,10 @@ import com.google.gson.GsonBuilder;
 import net.fabricmc.loader.api.FabricLoader;
 
 import java.io.*;
+import java.nio.file.FileSystems;
 
 public class ConfigLoader {
-    private static final String CONFIG_DIR = FabricLoader.getInstance().getConfigDir() + "\\";
+    private static final String CONFIG_DIR = FabricLoader.getInstance().getConfigDir() + FileSystems.getDefault().getSeparator();
 
     public Config loadConfigFile(String filename) {
         Config config;
