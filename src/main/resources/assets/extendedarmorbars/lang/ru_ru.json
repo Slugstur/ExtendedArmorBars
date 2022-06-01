@@ -1,13 +1,13 @@
 {
   "option.rebelkeithy.extendedarmorbars.colors": "Цвета",
-  "option.rebelkeithy.extendedarmorbars.armorenable": "Включить Шкалу Брони",
+  "option.rebelkeithy.extendedarmorbars.armorenable": "Включить шкалу брони",
   "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Отключение этого отключит только этот мод. Это НЕ отключит панель брони полностью.",
-  "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Скрыть фон Шкалы Брони",
-  "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Скрыть Шкалу Брони если она пуста",
-  "option.rebelkeithy.extendedarmorbars.toughnessenable": "Включить Шкалу Твёрдости",
-  "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Скрыть фон Шкалу Твёрдости",
-  "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Скрыть Шкалу Твёрдости если она пуста",
-  "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Отступ по Y Шкалы Брони",
-  "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Отступ по Y Шкалы Твёрдости",
-  "option.rebelkeithy.extendedarmorbars.onehealthbar": "Не двигать Шкалу Брони при 10 сердцах"
+  "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Скрыть фон шкалы брони",
+  "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Скрыть шкалу брони если она пуста",
+  "option.rebelkeithy.extendedarmorbars.toughnessenable": "Включить шкалу твёрдости",
+  "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Скрыть фон шкалу твёрдости",
+  "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Скрыть шкалу твёрдости если она пуста",
+  "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Отступ по Y шкалы брони",
+  "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Отступ по Y шкалы твёрдости",
+  "option.rebelkeithy.extendedarmorbars.onehealthbar": "Не двигать шкалу Брони при 10 сердцах"
 }
