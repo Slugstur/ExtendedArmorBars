@@ -1,7 +1,7 @@
 {
   "option.rebelkeithy.extendedarmorbars.colors": "Цвета",
   "option.rebelkeithy.extendedarmorbars.armorenable": "Включить шкалу брони",
-  "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Отключение этого отключит только этот мод. Это НЕ отключит панель брони полностью.",
+  "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Отключение этой опции отключит только этот мод. Это НЕ отключит шкалу брони полностью.",
   "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Скрыть фон шкалы брони",
   "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Скрыть шкалу брони если она пуста",
   "option.rebelkeithy.extendedarmorbars.toughnessenable": "Включить шкалу твёрдости",
