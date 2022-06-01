@@ -1,0 +1,13 @@
+{
+  "option.rebelkeithy.extendedarmorbars.colors": "Цвета",
+  "option.rebelkeithy.extendedarmorbars.armorenable": "Включить шкалу брони",
+  "option.rebelkeithy.extendedarmorbars.armorenabledescription": "Отключение этой опции отключит только этот мод. Это НЕ отключит шкалу брони полностью.",
+  "option.rebelkeithy.extendedarmorbars.armorhidebackground": "Скрыть фон шкалы брони",
+  "option.rebelkeithy.extendedarmorbars.armorhidewhenempty": "Скрыть шкалу брони если она пуста",
+  "option.rebelkeithy.extendedarmorbars.toughnessenable": "Включить шкалу твёрдости",
+  "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Скрыть фон шкалу твёрдости",
+  "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Скрыть шкалу твёрдости если она пуста",
+  "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Отступ по Y для шкалы брони",
+  "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Отступ по Y для шкалы твёрдости",
+  "option.rebelkeithy.extendedarmorbars.onehealthbar": "Не двигать шкалу брони при 10 сердцах"
+}
