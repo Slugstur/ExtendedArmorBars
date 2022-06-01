@@ -7,7 +7,7 @@
   "option.rebelkeithy.extendedarmorbars.toughnessenable": "Включить шкалу твёрдости",
   "option.rebelkeithy.extendedarmorbars.toughnesshidebackground": "Скрыть фон шкалу твёрдости",
   "option.rebelkeithy.extendedarmorbars.toughnesshidewhenempty": "Скрыть шкалу твёрдости если она пуста",
-  "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Отступ по Y шкалы брони",
-  "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Отступ по Y шкалы твёрдости",
+  "option.rebelkeithy.extendedarmorbars.armorbaroffset": "Отступ по Y для шкалы брони",
+  "option.rebelkeithy.extendedarmorbars.toughnessbaroffset": "Отступ по Y для шкалы твёрдости",
   "option.rebelkeithy.extendedarmorbars.onehealthbar": "Не двигать шкалу Брони при 10 сердцах"
 }
